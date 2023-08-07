@@ -1,0 +1,32 @@
+[
+  {
+    "id": "clean-code",
+    "title": "Clean Code",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiCLaXo-haziow4z37tTCzYgsOZ2Bc2kJfRoedHtDO5l93LMo",
+    "opinion": "Clean Code es una obra maestra para cualquier desarrollador que busque elevar su arte de programar a otro nivel. Robert C. Martin presenta principios claros y concretos para escribir código legible, fácil de mantener y que cumpla con estándares profesionales. Este libro es una guía imprescindible para crear software de calidad y convertirse en un programador más efectivo y disciplinado.",
+    "autor": "Robert C. Martin"
+  },
+  {
+    "id": "the-clean-coder",
+    "title": "The Clean Coder",
+    "subtitle": "A Code of Conduct for Proffesional Programmers",
+    "img": "https://m.media-amazon.com/images/I/51uO-K+V5dL._AC_UF1000,1000_QL80_.jpg",
+    "opinion": "En The Clean Coder, Robert C. Martin aborda la dimensión humana de la programación y lo que significa ser un profesional en el campo del desarrollo de software. El libro ofrece valiosas lecciones sobre la responsabilidad, la ética y cómo enfrentar los desafíos del mundo real en la industria de la programación. Es una lectura esclarecedora que brinda una visión más amplia de cómo convertirse en un coder limpio y altamente respetado.",
+    "autor": "Robert C. Martin"
+  },
+  {
+    "id": "javacript-the-good-parts",
+    "title": "Javascript: The Good Parts",
+    "img": "https://m.media-amazon.com/images/I/81kqrwS1nNL._AC_UF1000,1000_QL80_.jpg",
+    "opinion": "Este libro de Douglas Crockford se enfoca en destacar las partes más sólidas y efectivas de JavaScript. Es una guía concisa y directa para evitar las partes problemáticas del lenguaje y enfocarse en las mejores prácticas. Si bien es una lectura valiosa, puede resultar más adecuada para aquellos que ya tienen cierta experiencia en programación y desean mejorar sus habilidades en JavaScript",
+    "autor": "Douglas Crockford"
+  },
+  {
+    "id": "eloquent-javascript",
+    "title": "Eloquent Javascript",
+    "subtitle": "A Modern Introduction to Programming",
+    "img": "https://eloquentjavascript.net/img/cover.jpg",
+    "opinion": "Eloquent JavaScript es una joya para quienes están dando sus primeros pasos en el mundo de la programación con JavaScript. Marijn Haverbeke presenta conceptos complejos de forma clara y accesible, con ejercicios prácticos que ayudan a asimilar los conocimientos. Es un libro altamente recomendado para aprender a programar en JavaScript de manera efectiva y amena.",
+    "autor": "Marijn Haverbeke"
+  }
+]
